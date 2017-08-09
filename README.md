@@ -24,4 +24,6 @@ Once cloned you will find a folder called `screenshots` with 2 images (`wide.png
 
 Add the `class` attributes to the `index.html` go reproduce the layout of `wide.png`.
 
+Once the layout matches the `wide.png` add the additional classes (they are only 2) so that when you reduce the width of your viewport (narrowing) it also matches the layout of `narrow.png`.
+
 __Note:__ you should not change anything else than adding the `class` attributes.
