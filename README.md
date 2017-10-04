@@ -10,7 +10,7 @@ This new version does not use the less pre-processor but rather
 
 ## Resources
 
-- [Bootstrap 4 Alpha](https://v4-alpha.getbootstrap.com/) documentation
+- [Bootstrap 4](https://getbootstrap.com/) documentation
 
 ## Steps
 
